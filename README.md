@@ -14,4 +14,4 @@ The Method of Limits (MoL) is a novel extension of the method of moments, design
 Please direct any problems or questions to Leqi Xu (leqi.xu@yale.edu).
 
 ## Citation
-Jiang J, Xu L, Zhang Y, Zhao H. The method of limits and its application to the analysis of count data in genome-wide association studies.
+Jiang, J., Xu, L., Zhang, Y., & Zhao, H. (2024). The Method of Limits and Its Application to the Analysis of Count Data in Genome-wide Association Studies. Statistica Sinica Preprint, SS-2024-0092. http://www.stat.sinica.edu.tw/statistica/ https://doi.org/10.5705/ss.202024.0092
