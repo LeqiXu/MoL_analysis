@@ -11,7 +11,7 @@ The Method of Limits (MoL) is a novel extension of the method of moments, design
 - **2. Real_Data**: This directory includes the scripts used for applying the MoL method to the UK Biobank data, specifically for analyzing the heritability of weekly champagne and red wine consumption.
 
 ## Support
-Please direct any problems or questions to Leqi Xu (leqi.xu@yale.edu).
+Please direct any problems or questions to Leqi Xu (leqixu@ust.hk).
 
 ## Citation
 Jiang, J., Xu, L., Zhang, Y., & Zhao, H. (2024). The Method of Limits and Its Application to the Analysis of Count Data in Genome-wide Association Studies. Statistica Sinica Preprint, SS-2024-0092. https://doi.org/10.5705/ss.202024.0092
